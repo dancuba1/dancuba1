@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi, I'm Danny!
 I am currently working on: Super Smash Bros Ultimate Punish Calculator Web Application<br>Fun fact: I love music and have over 4,500 songs in one playlist on Spotify<br>
 
 
